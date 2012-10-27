@@ -10,7 +10,7 @@
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/mattnull/node-osmgeocoder"
   },
   "main": "./index",
   "engines": {
