@@ -1,7 +1,7 @@
 OSMGeocoder
 ===========
 
-Simple Open Street Map client for geocoding
+Simple Open Street Map geocoding client for Node.js
 ````
 npm install osmgeocoder
 ````
