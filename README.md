@@ -1,6 +1,7 @@
 OSMGeocoder
 ===========
 <a href="https://nodei.co/npm/osmgeocoder/"><img src="https://nodei.co/npm/osmgeocoder.png?downloads=true"></a>
+
 Simple Open Street Map geocoding client for Node.js
 ````
 npm install osmgeocoder
