@@ -6,7 +6,7 @@
   },
   "name": "osmgeocoder",
   "description": "Node.js client for Open Street map's geocoding service",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/mattnull/node-osmgeocoder",
   "repository": {
     "type": "git",
@@ -30,7 +30,7 @@
   "maintainers": [
     {
       "name": "mattnull",
-      "email": "me@mattnull.com"
+      "email": "hello@mattnull.com"
     }
   ],
   "directories": {},
